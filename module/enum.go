@@ -71,11 +71,6 @@ func EnumUser(mod *Mod, manager *DbManager) (*UserEnum, error) {
 		return nil, err
 	}
 
-	// arns, err := getAllArns(client, *mod)
-	// if err != nil {
-	// 	return nil, err
-	// }
-
 	inlinePols, err := getInlinePolicies(client, mod.User)
 	if err != nil {
 		return nil, err
