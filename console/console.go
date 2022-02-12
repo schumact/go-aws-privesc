@@ -9,7 +9,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/desertbit/grumble"
 	"github.com/fatih/color"
-	"github.com/schumact/pacu-go/module"
+	"github.com/schumact/go-aws-privesc/module"
 )
 
 var (

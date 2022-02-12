@@ -1,4 +1,4 @@
-module github.com/schumact/pacu-go
+module github.com/schumact/go-aws-privesc
 
 go 1.17
 

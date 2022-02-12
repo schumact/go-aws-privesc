@@ -8,7 +8,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/credentials"
 	"github.com/aws/aws-sdk-go-v2/service/iam/types"
-	"github.com/schumact/pacu-go/database"
+	"github.com/schumact/go-aws-privesc/database"
 )
 
 const (
