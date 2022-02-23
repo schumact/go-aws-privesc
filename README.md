@@ -1,4 +1,4 @@
-# go-aws-privsec
+# go-aws-privesc
 
 I wanted to rewrite some attacks (mainly IAM based) from pacu's framework in Go in order to learn a bit more about AWS pentesting and the AWS sdk
 
